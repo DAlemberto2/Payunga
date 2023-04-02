@@ -10,9 +10,9 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['354076116118961']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ['354076116118961']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ['354076116118961']
+global.Owner = ['51958982599']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ['51958982599']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ['51958982599']
 global.BotName = "Stella/Payunga"
 global.packname = "A17"
 global.author = "By: Dalemberto"
@@ -78,7 +78,7 @@ global.mess = {
 }
 
 
-global.limitawal = {
+global.limitawal = { 51958982599 }
     premium: "Infinity",
     free: 20,
     monayawal: 1000
