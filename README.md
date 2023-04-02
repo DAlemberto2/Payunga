@@ -163,13 +163,13 @@ npm i -g forever && forever index.js && forever save && forever logs
 Edit your config details in your own repo like -- [`config.js`](https://github.com/Kai0071/A17/blob/master/config.js)
 ```js
 
-13  global.Owner = ['916297175943']
-14  global.OwnerNumber = ['916297175943']
-15  global.ownertag = ['916297175943']
-16  global.BotName = "A17" 
-17  global.packname = "A17 bot"
-18  global.author = "By: Kai"
-19  global.OwnerName = "Kai"
+13  global.Owner = ['51958982599']
+14  global.OwnerNumber = ['51958982599']
+15  global.ownertag = ['51958982599']
+16  global.BotName = "Stella/Payunga" 
+17  global.packname = "A17"
+18  global.author = "By: Dalemberto"
+19  global.OwnerName = "Pacayunga"
 
 ```
    
